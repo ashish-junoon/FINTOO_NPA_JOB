@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/EW_NPA_JOB/App.config
+/EW_NPA_JOB/EW_NPA_JOB.csproj
+/EW_NPA_JOB/NLog.config
+/EW_NPA_JOB/NLog.xsd
+/EW_NPA_JOB/NPAModel.cs
+/EW_NPA_JOB/packages.config
+/EW_NPA_JOB/Program.cs
+/EW_NPA_JOB/Properties/AssemblyInfo.cs
+/EW_NPA_JOB/SqlHelper.cs
+/EW_NPA_JOB.sln
